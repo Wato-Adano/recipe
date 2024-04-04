@@ -1,0 +1,10 @@
+.navbar{
+    background-color: green;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.navbar-body{
+    display: flex;
+    justify-content: space-between;
+}
